@@ -1,0 +1,72 @@
+html {
+	font-family: "Helvetia Neue", "Helvetica";
+	text-rendering: optimizeLegibility;
+}
+
+body {
+	color: #101010;
+	background: #f9f9f9;
+	font-family: "Helvetica Neue", "Helvetica", sans-serif;
+	font-weight: 200;
+    font-size:160%;
+    line-height:1.125em;
+	margin: 80px 15%;
+}
+
+@media screen and (max-device-width: 480px){
+	body {
+		margin: 10px 10%;
+	}
+}
+
+h1, h2 {
+	font-size: 300%;
+	line-height: 125%;
+	font-weight: 100;
+}
+
+a[href] {
+	color: inherit;
+	font-weight: 400;
+	text-decoration: none;
+	
+	-o-transition:opacity .5s;
+	-ms-transition:opacity .5s;
+	-moz-transition:opacity .5s;
+	-webkit-transition:opacity .5s;
+	transition:opacity .5s;
+}
+
+a:active {
+	opacity: 0.5; /* css standard */
+    filter: alpha(opacity=50); /* internet explorer */
+} 
+
+a:hover { 
+	opacity: 0.5; /* css standard */
+    filter: alpha(opacity=50); /* internet explorer */
+}
+
+.duolingo {
+	color: #8edf00 !important;
+}
+
+.github {
+	color: #373737 !important;
+}
+
+.imdb {
+	color: #a58500 !important;
+}
+
+.linkedin {
+	color: #0a75B4 !important;
+}
+
+.runkeeper {
+	color: #25b7fa !important;
+}
+
+.yelp {
+	color: #d31704 !important;
+}
