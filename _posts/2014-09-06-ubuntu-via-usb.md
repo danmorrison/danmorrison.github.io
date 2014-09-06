@@ -69,7 +69,7 @@ This is required to support encrypted logical volumes.
 5. Select the `free space` under your target USB drive and create a new `logical` partition at the `beginning of this space` as a `physical volume for encryption` (I used 8000 MB).
 6. Change the mount point of the Linux device-mapper of this partition to `/`.
 7. Select the `free space` under your target USB drive and create a new `logical` partition at the `beginning of this space` as a `physical volume for encryption` (I used all that remained but 2000 MB).
-8. Change the mount point of the Linux device-mapper of this partition to /home.
+8. Change the mount point of the Linux device-mapper of this partition to `/home`.
 9. Select the `free space` under your target USB drive and create a new `logical` partition at the `end of this space` as a `physical volume for encryption` (I used 2000 MB).
 10. Change the Linux device-mapper of this partition to use this as `swap area`.
 11. Select your target USB drive to be the device for boot loader installation.
