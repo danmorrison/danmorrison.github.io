@@ -1,20 +1,21 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta charset="UTF-8" />
-	<meta name="author" content="Dan Morrison" />
-	<meta name="description" content="Dan Morrison’s website" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+---
+layout: default
+---
 
-	<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+<div class="home">
 
-	<title>Dan Morrison</title>
-</head>
-<body>
-	<h1>Dan Morrison</h1>
+  <h1 class="page-heading">Posts</h1>
 
-	<p>Hi, my name’s Dan.</p> 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-	<p>You can follow me on <a class="github" href="https://github.com/danmorrison">GitHub</a>, <a class="linkedin" href="http://www.linkedin.com/in/danjmorrison">LinkedIn</a>, <a class="runkeeper" href="http://runkeeper.com/user/danmorrison">RunKeeper</a>, <a class="duolingo" href="https://www.duolingo.com/danmorrison">Duolingo</a>, <a class="yelp" href="http://www.yelp.com/user_details?userid=3AYOIgsYChLVgyI1TIcgrw">Yelp</a> and <a class="imdb" href="http://www.imdb.com/user/ur25415537/">IMDb</a>.</p>
-</body>
-</html>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

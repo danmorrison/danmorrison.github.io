@@ -1,0 +1,19 @@
+# Site settings
+title: Dan Morrison
+email: dan@danm.it
+description: >
+  You can follow me on <a class='github' href='https://github.com/danmorrison'>GitHub</a>,
+  <a class='linkedin' href='http://www.linkedin.com/in/danjmorrison'>LinkedIn</a>,
+  <a class='runkeeper' href='http://runkeeper.com/user/danmorrison'>RunKeeper</a>,
+  <a class='duolingo' href='https://www.duolingo.com/danmorrison'>Duolingo</a>,
+  <a class='yelp' href='http://www.yelp.com/user_details?userid=3AYOIgsYChLVgyI1TIcgrw'>Yelp</a> and
+  <a class='imdb' href='http://www.imdb.com/user/ur25415537/'>IMDb</a>.
+baseurl: ""
+url: "http://danm.it" # the base hostname & protocol for your site
+github_username: danmorrison
+
+# Build settings
+markdown: kramdown
+permalink: none
+timezone: Australia/Melbourne
+
