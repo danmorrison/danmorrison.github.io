@@ -32,8 +32,11 @@ However, if your hardware choices are constrained this is far more liberating th
 1. A USB drive to temporarily store the Ubuntu installer (1 GB or greater).
 2. A USB drive to install Ubuntu (as large as you can obtain).
 
-It's only marginally bigger than the plug which means I can comfortably leave it plugged in continually.
+For a large USB drive I bought a 64 GB [SanDisk Ultra Fit][] flash drive.
+Physically it's only marginally bigger than the plug which means I can comfortably leave it plugged in continually.
 This is key to giving the illusion that I am using my own laptop rather than a laptop with my own peripheral.
+
+[SanDisk Ultra Fit]: http://www.sandisk.com/products/usb/drives/ultra-fit3
 
 After a lifetime of hand-me-down PCs, hulking towers for gaming and loaned ThinkPads I find it remarkable that a drive the size of my thumbnail can be the only desktop hardware that I need to own.
 
