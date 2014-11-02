@@ -28,11 +28,11 @@ I consider myself to be deeply biased.
 I believe in equality and support feminism, socialism and vegetarianism.
 I want you to believe in these things too.
 
-So, from this hateful trend I have taken a rule to aspire to when writing:
+So, from this hateful trend I have taken a principle for writing:
 
 > Be subjective.
 
-I first realised the need for this rule when my wife Cass read my first [Yelp][] reviews and told me "they don't sound like you."
+I first realised the need for this principle when my wife Cass read my first [Yelp][] reviews and told me "they don't sound like you."
 By trying to selflessly communicate my experiences to imagined readers I had ended up sounding more like [real people][] than a real person.
 I believe writing subjectively is more honest and hopefully also more interesting.
 
