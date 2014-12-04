@@ -34,7 +34,7 @@ PwC's configuration profile did not trust me so I chose to remove it.
 Removing the profile from my iPhone was as easy as [Apple claims][], taking mere seconds.
 Once complete I could no longer send and receive PwC mail from my iPhone but I regained full control of my data.
 
-[Apple claims]: https://www.apple.com/iphone/business/it/management.html
+[Apple claims]: https://apple.com/iphone/business/it/management.html
 
 Mobile access to mail enabled me to be more productive.
 I don't believe productivity is worth surrendering personal freedom.

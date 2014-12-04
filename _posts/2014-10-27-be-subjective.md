@@ -11,14 +11,14 @@ I see it as embodying two things:
 1. Misogyny.
 2. A plea for ethics in journalism.
 
-[Adam Baldwin]: http://www.imdb.com/name/nm0000284
+[Adam Baldwin]: http://imdb.com/name/nm0000284
 
 The misogyny has been pervasive and has unfortunately reinforced my bias against people who identify as gamers.
 It has also given me even more respect for the women involved such as [Zoe Quinn][], [Anita Sarkeesian][] and [Brianna Wu][].
 
-[Zoe Quinn]: http://www.beesgo.biz
-[Anita Sarkeesian]: http://www.feministfrequency.com
-[Brianna Wu]: http://www.revolution60.com
+[Zoe Quinn]: http://quinnspiracy.com
+[Anita Sarkeesian]: http://feministfrequency.com
+[Brianna Wu]: http://revolution60.com
 
 The plea for ethics has been a distant second.
 The central argument is that journalists should be objective.
@@ -36,7 +36,7 @@ I first realised the need for this principle when my wife Cass read my first [Ye
 By trying to selflessly communicate my experiences to imagined readers I had ended up sounding more like [real people][] than a real person.
 I believe writing subjectively is more honest and hopefully also more interesting.
 
-[Yelp]: http://www.yelp.com/user_details_reviews_self?userid=3AYOIgsYChLVgyI1TIcgrw
+[Yelp]: http://yelp.com/user_details_reviews_self?userid=3AYOIgsYChLVgyI1TIcgrw
 [real people]: http://officialblog.yelp.com/2011/06/yelp-and-the-1990-rule.html
 
 I think Albert Einstein was a great practitioner of the subjective approach and that his magnificent essay [Why Socialism?][] exemplifies this.
