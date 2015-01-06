@@ -26,6 +26,7 @@ A Windows [Gui wrapper][] is available.
 [Gui wrapper]: http://freeweb.siol.net/hrastni3/foto/exif/exiftoolgui.htm
 
 I set two tags:
+
 - `DateTimeOriginal` which represents the date and time when the original image data was generated.
 - `CreateDate` which is not in the Exif specification but is read when uploading photos to iCloud Photo Library using the web app.
 
