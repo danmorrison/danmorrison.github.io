@@ -25,8 +25,9 @@ A Windows [Gui wrapper][] is available.
 [ExifTool]: http://sno.phy.queensu.ca/~phil/exiftool
 [Gui wrapper]: http://freeweb.siol.net/hrastni3/foto/exif/exiftoolgui.htm
 
-The only tag than needed to be set was `DateTimeOriginal` which represents the date and time when the original image data was generated.
-ExifTool can also write a `CreateDate` tag which is supported by iCloud Photo Library but is not a part of the Exif specification so I avoided it.
+I set two tags:
+- `DateTimeOriginal` which represents the date and time when the original image data was generated.
+- `CreateDate` which is not in the Exif specification but is read when uploading photos to iCloud Photo Library using the web app.
 
 Now that I've migrated 15 years of photos I use Photos the same way that a new user does.
 Rather than Exif tags, folders and file names I think about moments, collections and years.
