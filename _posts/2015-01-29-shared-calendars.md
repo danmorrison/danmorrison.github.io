@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shared calendars"
-date:   2015-01-09 13:02:29
+date:   2015-01-29 13:02:29
 ---
 
 You can subscribe to shared calendars with iOS.
