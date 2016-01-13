@@ -81,4 +81,4 @@ But I lived.
 Someone hit me with a car and I lived.
 I'm proud of myself for that.
 
-Now I'm working towards running my first marathon.
+Now I'm training for my first marathon.
