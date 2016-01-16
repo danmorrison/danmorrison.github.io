@@ -27,7 +27,8 @@ date:   1970-01-01 00:00:00
 - Telling Ghosts by Puscifer
 - Black Angel, White Angel by Danzig
 - Gypsy Rose Lee by the Distillers
-- Impaler by Spinnerette <!-- Followed by ? -->
+- Impaler by Spinnerette
+{% comment %} ? {% endcomment %}
 - Missfit by HorrorPops
 - Beast of Honor by Melissa Auf der Maur
 - Go With the Flow by Queens of the Stone Age
@@ -43,8 +44,10 @@ date:   1970-01-01 00:00:00
 - Who's Leading You Now by HorrorPops
 - No One Knows by Queens of the Stone Age
 - Good Fortune by PJ Harvey
-- Seether by Veruca Salt <!-- Followed by ? -->
-- Black Mass by Danzig <!-- Followed by ? -->
+- Seether by Veruca Salt
+{% comment %} ? {% endcomment %}
+- Black Mass by Danzig
+{% comment %} ? {% endcomment %}
 - Ænema by Tool
 - Long Way Back from Hell by Danzig
 - Oh Serena by the Distillers
@@ -72,14 +75,16 @@ date:   1970-01-01 00:00:00
 - Where They Wander by HorrorPops
 - Monsters In the Parasol by Queens of the Stone Age
 - Private Hall of Shame by HorrorPops
-- City of Angels by the Distillers <!-- Followed by ? -->
+- City of Angels by the Distillers
+{% comment %} ? {% endcomment %}
 - The Walking Dead by Spinnerette
 - Oldscratch by the Distillers
 - 1000 Devils Reign by Danzig
 - Memories Remain by Dropkick Murphys
 - The Hunter by Danzig
 - Out On the Town by Dropkick Murphys
-- Dear Brother by Puscifer <!-- Followed by ? -->
+- Dear Brother by Puscifer
+{% comment %} ? {% endcomment %}
 - Baptized By Fire by Spinnerette
 - Nas Ne Dagoniat by tATu
 - Vomit Heart by Babes In Toyland
