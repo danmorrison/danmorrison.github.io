@@ -61,3 +61,5 @@ Dan:   Ich auch. Wunderbar.
 Frank: Tschüs.
 Dan:   Tschüs.
 ```
+
+It wasn't until later that I realised I could have asked Frank if `er kommt aus Frankreich`.
