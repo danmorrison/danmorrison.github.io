@@ -6,7 +6,7 @@ date:   1970-01-01 00:00:00
 
 In 2016 I achieved a goal I'd held for many years and began to formally study German.
 
-​​The [textbook][] (`Kursbuch`) and [workbook][] (`Arbeitsbuch`) for this course were Menschen A1/1.
+​​The [textbook][] (`Kursbuch`) and [workbook][] (`Arbeitsbuch`) for this course were Menschen A1.
 
 [textbook]: https://shop.hueber.de/de/menschen-a1-kb-mit-dvd-rom.html
 [workbook]: https://shop.hueber.de/de/menschen-a1-ab-mit-2-audio-cds.html
@@ -62,4 +62,4 @@ Frank: Tschüs.
 Dan:   Tschüs.
 ```
 
-It wasn't until later that I realised I could have asked Frank if `er kommt aus Frankreich`.
+It wasn't until after class that I realised I could have asked Frank if `er kommt aus Frankreich`.
