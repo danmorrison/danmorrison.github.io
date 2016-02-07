@@ -54,7 +54,7 @@ Frank: Guten tag.
 Dan:   Guten tag. Wie heißen Sie?
 Frank: Ich heiße Frank. Und Sie?
 Dan:   Ich heiße Dan.
-Frank: Lass und "dei" sagen.
+Frank: Lass uns "du" sagen.
 Dan:   Ja. Und woher kommst du?
 Frank: Ich komme aus Australien. Und du?
 Dan:   Ich auch. Wunderbar.
