@@ -63,3 +63,51 @@ Dan:   Tschüs.
 ```
 
 It wasn't until after class that I realised I could have asked Frank if `er kommt aus Frankreich`.
+
+## Klasse 2 mit Peggy Hecker 2016-02-06
+
+Finishing `Lektion 1` we began `Klasse 2` by skipping to `Kb S 141 und 143`.
+My partner Andrew and I stepped through a list of people including Merkel, Mozart and Goethe asking who is that (`Wer ist das?`) and where do they come from (`Und woher kommt er/sie?`).
+`Angela Merkel kommt aus Deutschland.`
+
+Then we moved to `Lektion 2 Aufgabe 1`.
+We listened to four people introduce themselves and matched them with their business cards.
+Their professions were `Journalistin`, `Architekt`, `IT-Spezialist` and `Marketing-Managerin`.
+The suffix `-in` is used for females.
+
+`Aufgabe 2` introduced how to say your profession (`Beruf`), what you work as and where you work:
+
+```
+Ich bin Software-Ingenieur.
+Ich arbeite als IT-Berater.
+Ich arbeite bei PwC.
+```
+
+`Aufgabe 3` introduced how to say your marital status (`Familienstand`):
+
+```
+Ich bin verheiratet.
+Ich habe keine Kinder.
+Ich lebe in Brunswick West mit mein Frau.
+```
+
+`Aufgabe 4` involved learning how to count from 0 (`null`) to 100 (`einhundert`).
+We used this to then ask each other how old are you (`Wie alt bist du?`):
+
+```
+Ich bin einunddreißig Jahre alt.
+```
+
+Peggy transitioned between questions by saying `Dann` (then) which I kept hearing as my name.
+Maybe Dain and Dion felt the same way.
+She also asked questions by throwing her soft toy pig Schweini to the person being asked.
+When she accidentally hit Charlotte with Schweini we learned how to say "excuse me" (`entschuldigung`) and "I'm sorry" (`es tut mir leid`).
+
+We finished by finding partners, interviewing each other in German then introducing each other to the class:
+
+```
+Das ist Charlotte.
+Sie ist einundzwanzig Jahre alt.
+Sie ist Studentin bei Monash.
+Sie lebt mit ihr Mutter, Bruder, Schwester and ihren Hund Agatha in Mentone.
+```
