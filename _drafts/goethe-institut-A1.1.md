@@ -99,7 +99,7 @@ Ich bin einunddreißig Jahre alt.
 ```
 
 Peggy transitioned between questions by saying `Dann` (then) which I kept hearing as my name.
-Maybe Dain and Dion felt the same way.
+Maybe Dain, Diane and Doan felt the same way.
 She also asked questions by throwing her soft toy pig Schweini to the person being asked.
 When she accidentally hit Charlotte with Schweini we learned how to say "excuse me" (`entschuldigung`) and "I'm sorry" (`es tut mir leid`).
 
