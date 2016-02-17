@@ -111,3 +111,70 @@ Sie ist einundzwanzig Jahre alt.
 Sie ist Studentin bei Monash.
 Sie lebt mit ihr Mutter, Bruder, Schwester and ihren Hund Agatha in Mentone.
 ```
+
+## Klasse 3 mit Peggy Hecker 2016-02-13
+
+`Klasse 3` began with a game of bingo.
+We each filled two grids with numbers from `eins` to `fünfzig`.
+I chose numbers that were harder to learn such as `elf`, `zwölf` and `siebzehn` and was the first to call bingo.
+
+Then we learned how to ask for someone's phone number (`Wie ist deine Telefonnummer?`).
+Peggy played a series of dialogues where people exchanged their numbers but we all had to listen several times before we could successfully write them down.
+
+Next we formed groups and wrote introductions for some cartoon characters.
+I wrote a story about Christoph (named after but in no way based upon [Schneider][]):
+
+[Schneider]: https://en.wikipedia.org/wiki/Christoph_Schneider
+
+```
+Das ist Christoph.
+Er lebt in Köln und komme aus Heidelberg.
+Seine Muttersprache ist Deutsch.
+Er ist Sammler von Beruf.
+Er ist vierundfünfzig Jahre alt.
+Er spricht Deutsch und Englisch.
+```
+
+Then we moved to `Lektion 3 Aufgabe 1`.
+We listened to Herbert lie about his wife (`Frau`) and learned how to refer to family members (`Familienmitglieder`).
+This continued with `Aufgaben 2 und 3`.
+
+`Aufgabe 4` introduced [V2 word order][].
+Peggy stressed that this was the most important thing we had learned and that it would be essential to our progression.
+I found its formalism pleasant.
+
+[V2 word order]: https://en.wikipedia.org/wiki/V2_word_order
+
+Days later Cass told me that I was speaking English differently.
+I think the biggest change was learning V2 word order.
+In my youth I had resisted learning a second language for imperial reasons and it took only three weeks of classes to unseat English as my natural language.
+
+`Aufgabe 4` introduced the wonderful word `doch`.
+It addresses the problem that is caused when a question is asked with a negative assumption:
+
+```
+Roy:     Quite an experience to live in fear, isn't it?
+Deckard: Yes.
+Roy:     Huh?
+```
+
+With a negative English question such as "Is it not?" you can reply either "no" to agree or "yes" to confuse everyone.
+The language isn't equipped for the double negative.
+This problem reminded me of [Kernighan and Pike's][] advice that "Functions that return a boolean (true or false) value should be named so that the return value is unambiguous."
+`Doch` offers a third alternative to "yes" or "no", comparable to the Australian "yeah, nah".
+
+[Kernighan and Pike's]: https://en.wikipedia.org/wiki/The_Practice_of_Programming
+
+Then we practised syntax by writing sentences on strips of paper, slicing them into individual words then exchanging them with others to reconstruct.
+
+We finished with `Aufgabe 8` by finding partners, interviewing each other in German then introducing each other's `Familienmitglieder` to the class.
+My partner Phil had a sprawling family tree which took me a while to elicit:
+
+```
+Phil hast vier Bruder und eine Schwester.
+Bruder Daniel hat drei Kinder und ein Enkel.
+Alex hat eine Tochter.
+Nicholas arbeitet als Verkäufer und hat drei Kinder.
+Chris arbeitet als Soldart und hat zwei Kinder.
+Katrina arbeitet als Artztin und hat keine Kinder.
+```
