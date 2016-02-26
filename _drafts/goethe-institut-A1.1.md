@@ -178,3 +178,40 @@ Nicholas arbeitet als Verkäufer und hat drei Kinder.
 Chris arbeitet als Soldart und hat zwei Kinder.
 Katrina arbeitet als Artztin und hat keine Kinder.
 ```
+
+## Klasse 4 mit Eva Spiesberger 2016-02-13
+
+Our fourth class brought a new teacher Eva from Austria (`Österreich`).
+She was softer spoken than Peggy, adept with the digital whiteboard and rarely referred to our `Kursbuch`.
+
+We began with dialogue that was a bit faster than we were used to.
+We shook hands with each other while alternating between `Freut mich` and `Angenehm`.
+We also added `Was machst du hier?` to our introductions (`Ich lerne Deutsch und drinke Kaffee, und du?`).
+
+Then we practised numbers greater than 100 by listening to an auction.
+Occasionally I confused `Zwei` und `Drei` but mostly I found this easy.
+
+Eva had brought supermarket catalogues back from Europe and we practised asking each other the price (`Preise`) of various items.
+As an Australian the prices looked like they were from the 90s.
+It was shocking how expensive things are here.
+
+```
+Was kostet das?
+Was kosten die?
+Wie viel kostet das?
+Wie viel kosten die?
+```
+
+Next we learned definitive articles (`definiter Artikel`) and the names of common objects.
+I enjoyed learning that a couch could be both neuter (`das Sofa`) and feminine (`die Couch`).
+Even better though was seeing Michaël exclaim "No way!" when he learned that tables (`Tische`) were masculine in German unlike in French.
+
+To learn the names of some common objects we each drew three objects that we use frequently then looked them up in a German-English dictionary.
+I drew a coffee machine (`die Kaffeemaschine`), wallet (`die Brieftasche`) and pencil (`der Bleistift`) because Charlotte had already claimed laptop (`Laptop`).
+I was surprised to learn how difficult I found using a paper dictionary and hope to not use one again.
+
+Eva explained that the gender of compound words was determined by the last word, so coffee machine (`der Kaffee` + `die Maschine`) becomes the feminine coffeemachine (`die Kaffeemaschine`).
+
+We ended by learning farewells.
+Apparently `Schönes Wochenende` means "Have a nice weekend" despite how much it sounds like English swearing.
+A polite way to reply is `Danke, gleichfalls` ("Thanks, same to you").
