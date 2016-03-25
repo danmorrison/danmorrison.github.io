@@ -13,3 +13,7 @@ date:   1970-01-01 00:00:00
 ## Little River
 
 ## The Cornish Arms
+
+## The Kettle Black
+
+## The Goethe Institute
