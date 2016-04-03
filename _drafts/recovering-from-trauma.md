@@ -76,5 +76,3 @@ A near-death experience didn't change that.
 But I lived.
 Someone hit me with a car and I lived.
 I'm proud of myself for that.
-
-Now I'm training for my first marathon.
