@@ -64,18 +64,14 @@ Some damage is permanent.
 I have a scar on the right side of my forehead and I think about my composite tooth every day.
 Everything else can be trained though.
 
-<!-- I'm aware of the muscles that support my spine and neck and can feel their limitations. -->
-<!-- But I'm training them too. -->
-
 I slowly returned to running.
 First a single kilometre, then two, until I was running as far as I ever have.
 After four months of training I ran the [Run Melbourne][] half marathon.
 
 [Run Melbourne]: http://runmelbourne.com.au
 
-I'm still prone to depression.
-<!-- This near-death experience wasn't -->
-<!-- It was a brutal and meaningless act done to me by a negligent driver. -->
+One year later I was still prone to depression.
+A near-death experience didn't change that.
 
 But I lived.
 Someone hit me with a car and I lived.
