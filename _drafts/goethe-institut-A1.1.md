@@ -215,3 +215,103 @@ Eva explained that the gender of compound words was determined by the last word,
 We ended by learning farewells.
 Apparently `Schönes Wochenende` means "Have a nice weekend" despite how much it sounds like English swearing.
 A polite way to reply is `Danke, gleichfalls` ("Thanks, same to you").
+
+## Klasse 5 mit Eva Spiesberger 2016-02-20
+
+`Klasse 5` began with sentence structure (`Satzkonstruktion`).
+Eva reiterated the V2 word order then introduced a new rule that the subject of a sentence comes immediately before or after the verb.
+To help everyone remember this she drew a heart between the subject and verb of various sentences.
+
+To practise this we formed sentences using five `Frageworts`, seven verbs and seven objects.
+I was able to make 19 different combinations that made sense and conjugated correctly, eg:
+
+```
+Wie hießt du?
+Woher kommet ihr
+```
+
+Then we learned the nominative definite, indefinite and negative articles that precede nouns:
+
+<table>
+	<tr>
+		<th>Nominativ</th>
+		<th>definiter Artikel</th>
+		<th>indefiniter Artikel</th>
+		<th>Negativartikel</th>
+	</tr>
+	<tr>
+		<td>maskulin</td>
+		<td>der</td>
+		<td>ein</td>
+		<td>kein</td>
+	</tr>
+	<tr>
+		<td>neutral</td>
+		<td>das</td>
+		<td>ein</td>
+		<td>kein</td>
+	</tr>
+	<tr>
+		<td>feminin</td>
+		<td>die</td>
+		<td>eine</td>
+		<td>keine</td>
+	</tr>
+	<tr>
+		<td>plural</td>
+		<td>die</td>
+		<td>---</td>
+		<td>keine</td>
+	</tr>
+</table>
+
+Next we learned colours using [Connector Pens][]:
+
+[Connector Pens]: http://faber-castell.com.au/55713/Products/Playing-Learning/Products/Connector-Pens/splrn_index1.aspx
+
+<table>
+	<tr>
+		<th>colour</th>
+		<th>Farbe</th>
+	</tr>
+	<tr>
+		<td>blue</td>
+		<td>Blau</td>
+	</tr>
+	<tr>
+		<td>dark blue</td>
+		<td>Dunkelblau</td>
+	</tr>
+	<tr>
+		<td>light blue</td>
+		<td>Helblau</td>
+	</tr>
+	<tr>
+		<td>purple</td>
+		<td>Violett</td>
+	</tr>
+	<tr>
+		<td>orange</td>
+		<td>Orange</td>
+	</tr>
+	<tr>
+		<td>yellow</td>
+		<td>Gelb</td>
+	</tr>
+	<tr>
+		<td>green</td>
+		<td>Grün</td>
+	</tr>
+	<tr>
+		<td>red</td>
+		<td>Rot</td>
+	</tr>
+	<tr>
+		<td>brown</td>
+		<td>Braun</td>
+	</tr>
+</table>
+
+We finished with pronunciation.
+Eva tested our ability to discern between word pairs like `den` and `denn`, `bitten` and `bieten`, `leben` and `lieben` and even `Masse` and `Maße`.
+We listened along while playing connect the dots, drawing a house and a fish.
