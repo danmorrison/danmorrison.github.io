@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "​Recovering from trauma"
-date:   1970-01-01 00:00:00
+date:   2016-04-03 13:46:50
 ---
 
 In April 2015 [someone hit me with a car][].
