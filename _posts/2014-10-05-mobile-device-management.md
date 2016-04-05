@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobile Device Management"
-date:   2014-10-05 13:33:08
+date:   2014-10-05T13:33:08+11:00
 ---
 
 *Bring Your Own Device* is a trend where employees would rather allow corporate security to intrude upon their personal iPhones and iPads than use the commodity devices that their companies would otherwise provide.

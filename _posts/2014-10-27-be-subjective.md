@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Be subjective"
-date:   2014-10-27 22:35:48
+date:   2014-10-27T22:35:48+11:00
 ---
 
 GamerGate began in August 2014.

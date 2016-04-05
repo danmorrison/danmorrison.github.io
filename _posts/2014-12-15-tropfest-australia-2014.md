@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tropfest Australia 2014"
-date:   2014-12-15 23:26:59
+date:   2014-12-15T23:26:59+11:00
 ---
 
 The first time I saw [Tropfest][] was in 2007.

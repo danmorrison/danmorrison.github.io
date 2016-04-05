@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Someone hit me with a car"
-date:   2015-04-04 21:44:54
+date:   2015-04-04T21:44:54+10:00
 ---
 
 On 2 April 2015 I enjoyed lunch with my manager Sachin at [Hunter's][].

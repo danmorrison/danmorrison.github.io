@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iCloud Photo Library"
-date:   2014-11-06 21:53:40
+date:   2014-11-06T21:53:40+11:00
 ---
 
 I store all of my photos in [iCloud Photo Library][].

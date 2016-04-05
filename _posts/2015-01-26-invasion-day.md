@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invasion Day"
-date:   2015-01-26 16:58:06
+date:   2015-01-26T16:58:06+11:00
 ---
 
 26 January 2014 was an Australian national holiday.

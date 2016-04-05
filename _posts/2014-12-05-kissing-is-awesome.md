@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kissing is awesome"
-date:   2014-12-05 08:40:11
+date:   2014-12-05T08:40:11+11:00
 ---
 
 Albert Einstein said [the happiest thought of his life][] was that the gravitational field has only a relative existence.

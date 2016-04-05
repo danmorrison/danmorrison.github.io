@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fail as early as possible"
-date:   2015-12-13 19:19:10
+date:   2015-12-13T19:19:10+11:00
 ---
 
 ![Atlas](atlas.jpg)

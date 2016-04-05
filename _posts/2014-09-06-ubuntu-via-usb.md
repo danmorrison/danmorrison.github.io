@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu via USB"
-date:   2014-09-06 19:34:31
+date:   2014-09-06T19:34:31+10:00
 ---
 
 I find [OS X][] to be the most enjoyable and productive desktop operating system available.

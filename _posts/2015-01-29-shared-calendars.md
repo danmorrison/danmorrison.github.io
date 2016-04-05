@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shared calendars"
-date:   2015-01-29 13:02:29
+date:   2015-01-29T13:02:29+11:00
 ---
 
 I subscribe to the Victorian Government's [Public Holidays][] calendar and North Melbourne Football Club's [fixture][].
