@@ -292,19 +292,19 @@ Next we learned the cardinal directions (`die Himmelsrichtung`, literally "sky d
 
 <table>
 	<tr>
-		<th>Nordwesten</th>
-		<th>Norden</th>
-		<th>Nordosten</th>
+		<td>Nordwesten</td>
+		<td>Norden</td>
+		<td>Nordosten</td>
 	</tr>
 	<tr>
-		<th>Westen</th>
-		<th>☼</th>
-		<th>Osten</th>
+		<td>Westen</td>
+		<td>☼</td>
+		<td>Osten</td>
 	</tr>
 	<tr>
-		<th>Südwesten</th>
-		<th>Süden</th>
-		<th>Sudosten</th>
+		<td>Südwesten</td>
+		<td>Süden</td>
+		<td>Sudosten</td>
 	</tr>
 </table>
 
