@@ -46,17 +46,17 @@ After our break Eva introduced the conjugations of the irregular verbs `mögen` 
 	</tr>
 	<tr>
 		<td>ich</td>
-		<td>du</td>
-		<td>er/sie/es</td>
-	</tr>
-	<tr>
 		<td>mag</td>
-		<td>magst</td>
-		<td>mag</td>
-	</tr>
-	<tr>
 		<td>möchte</td>
+	</tr>
+	<tr>
+		<td>du</td>
+		<td>magst</td>
 		<td>möchtest</td>
+	</tr>
+	<tr>
+		<td>er/sie/es</td>
+		<td>mag</td>
 		<td>möchte</td>
 	</tr>
 </table>
