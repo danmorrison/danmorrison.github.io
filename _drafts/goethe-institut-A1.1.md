@@ -6,7 +6,7 @@ date:   1970-01-01 00:00:00
 
 In 2016 I achieved a goal I'd held for many years and began to formally study German.
 
-​​The [textbook][] (`Kursbuch`) and [workbook][] (`Arbeitsbuch`) for this course were Menschen A1.
+​​The [textbook][] (`das Kursbuch`) and [workbook][] (`das Arbeitsbuch`) for this course were Menschen A1.
 
 [textbook]: https://shop.hueber.de/de/menschen-a1-kb-mit-dvd-rom.html
 [workbook]: https://shop.hueber.de/de/menschen-a1-ab-mit-2-audio-cds.html
@@ -75,7 +75,7 @@ We listened to four people introduce themselves and matched them with their busi
 Their professions were `Journalistin`, `Architekt`, `IT-Spezialist` and `Marketing-Managerin`.
 The suffix `-in` is used for females.
 
-`Aufgabe 2` introduced how to say your profession (`Beruf`), what you work as and where you work:
+`Aufgabe 2` introduced how to say your profession (`der Beruf`), what you work as and where you work:
 
 ```
 Ich bin Software-Ingenieur.
@@ -83,7 +83,7 @@ Ich arbeite als IT-Berater.
 Ich arbeite bei PwC.
 ```
 
-`Aufgabe 3` introduced how to say your marital status (`Familienstand`):
+`Aufgabe 3` introduced how to say your marital status (`der Familienstand`):
 
 ```
 Ich bin verheiratet.
@@ -136,7 +136,7 @@ Er spricht Deutsch und Englisch.
 ```
 
 Then we moved to `Lektion 3 Aufgabe 1`.
-We listened to Herbert lie about his wife (`Frau`) and learned how to refer to family members (`Familienmitglieder`).
+We listened to Herbert lie about his wife (`die Frau`) and learned how to refer to family members (`das Familienmitglieder`).
 This continued with `Aufgaben 2 und 3`.
 
 `Aufgabe 4` introduced [V2 word order][].
@@ -207,7 +207,7 @@ I enjoyed learning that a couch could be both neuter (`das Sofa`) and feminine (
 Even better though was seeing Michaël exclaim "No way!" when he learned that tables (`Tische`) were masculine in German unlike in French.
 
 To learn the names of some common objects we each drew three objects that we use frequently then looked them up in a German-English dictionary.
-I drew a coffee machine (`die Kaffeemaschine`), wallet (`die Brieftasche`) and pencil (`der Bleistift`) because Charlotte had already claimed laptop (`Laptop`).
+I drew a coffee machine (`die Kaffeemaschine`), wallet (`die Brieftasche`) and pencil (`der Bleistift`) because Charlotte had already claimed laptop (`der Laptop`).
 I was surprised to learn how difficult I found using a paper dictionary and hope to not use one again.
 
 Eva explained that the gender of compound words was determined by the last word, so coffee machine (`der Kaffee` + `die Maschine`) becomes the feminine coffeemachine (`die Kaffeemaschine`).
@@ -218,7 +218,7 @@ A polite way to reply is `Danke, gleichfalls` ("Thanks, same to you").
 
 ## Klasse 5 mit Eva Spiesberger 2016-02-20
 
-`Klasse 5` began with sentence structure (`Satzkonstruktion`).
+`Klasse 5` began with sentence structure (`die Satzkonstruktion`).
 Eva reiterated the V2 word order then introduced a new rule that the subject of a sentence comes immediately before or after the verb.
 To help everyone remember this she drew a heart between the subject and verb of various sentences.
 
@@ -260,58 +260,55 @@ Then we learned the nominative definite, indefinite and negative articles that p
 	<tr>
 		<td>plural</td>
 		<td>die</td>
-		<td>---</td>
+		<td>—</td>
 		<td>keine</td>
 	</tr>
 </table>
 
-Next we learned colours using [Connector Pens][]:
+Next we learned colours using [Connector Pens][].
 
 [Connector Pens]: http://faber-castell.com.au/55713/Products/Playing-Learning/Products/Connector-Pens/splrn_index1.aspx
-
-<table>
-	<tr>
-		<th>colour</th>
-		<th>Farbe</th>
-	</tr>
-	<tr>
-		<td>blue</td>
-		<td>Blau</td>
-	</tr>
-	<tr>
-		<td>dark blue</td>
-		<td>Dunkelblau</td>
-	</tr>
-	<tr>
-		<td>light blue</td>
-		<td>Helblau</td>
-	</tr>
-	<tr>
-		<td>purple</td>
-		<td>Violett</td>
-	</tr>
-	<tr>
-		<td>orange</td>
-		<td>Orange</td>
-	</tr>
-	<tr>
-		<td>yellow</td>
-		<td>Gelb</td>
-	</tr>
-	<tr>
-		<td>green</td>
-		<td>Grün</td>
-	</tr>
-	<tr>
-		<td>red</td>
-		<td>Rot</td>
-	</tr>
-	<tr>
-		<td>brown</td>
-		<td>Braun</td>
-	</tr>
-</table>
 
 We finished with pronunciation.
 Eva tested our ability to discern between word pairs like `den` and `denn`, `bitten` and `bieten`, `leben` and `lieben` and even `Masse` and `Maße`.
 We listened along while playing connect the dots, drawing a house and a fish.
+
+## Klasse 6 mit Eva Spiesberger 2016-02-27
+
+`Klasse 6` began with us laying words on a table like dominoes.
+They connected to form sentences but could only be validly combined a finite number of ways.
+This tested our understanding of articles.
+
+Then we found partners and practised questions and negations:
+
+```
+Dan: Ist das eine Geldbörse?
+Andrew: Das ist keine Gelbörse. Das ist eine Tasche.
+```
+
+Then we practiced conjugation using a list of words and rolling a dice to choose from six nominative pronouns `ich`, `du`, `er/sie`, `wir`, `ihr` and `Sie`.
+
+Next we learned the cardinal directions (`die Himmelsrichtung`, literally "sky directions").
+
+<table>
+	<tr>
+		<th>Nordwesten</th>
+		<th>Norden</th>
+		<th>Nordosten</th>
+	</tr>
+	<tr>
+		<th>Westen</th>
+		<th>☼</th>
+		<th>Osten</th>
+	</tr>
+	<tr>
+		<th>Südwesten</th>
+		<th>Süden</th>
+		<th>Sudosten</th>
+	</tr>
+</table>
+
+We used these directions to locate places relatively: `Melbourne ist im Süden von Australien` and `Sydney ist Nördlich von Melbourne`.
+We then tested this ability by finding partners and helping each other find cities on a map of Germany.
+
+We finished with `Wo wohnt Winfried` from `Klasse 1`.
