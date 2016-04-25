@@ -179,7 +179,7 @@ Chris arbeitet als Soldart und hat zwei Kinder.
 Katrina arbeitet als Artztin und hat keine Kinder.
 ```
 
-## Klasse 4 mit Eva Spiesberger 2016-02-13
+## Klasse 4 mit Eva Spiesberger 2016-02-20
 
 Our fourth class brought a new teacher Eva from Austria (`Österreich`).
 She was softer spoken than Peggy, adept with the digital whiteboard and rarely referred to our `Kursbuch`.
@@ -216,7 +216,7 @@ We ended by learning farewells.
 Apparently `Schönes Wochenende` means "Have a nice weekend" despite how much it sounds like English swearing.
 A polite way to reply is `Danke, gleichfalls` ("Thanks, same to you").
 
-## Klasse 5 mit Eva Spiesberger 2016-02-20
+## Klasse 5 mit Eva Spiesberger 2016-02-27
 
 `Klasse 5` began with sentence structure (`die Satzkonstruktion`).
 Eva reiterated the V2 word order then introduced a new rule that the subject of a sentence comes immediately before or after the verb.
@@ -273,7 +273,7 @@ We finished with pronunciation.
 Eva tested our ability to discern between word pairs like `den` and `denn`, `bitten` and `bieten`, `leben` and `lieben` and even `Masse` and `Maße`.
 We listened along while playing connect the dots, drawing a house and a fish.
 
-## Klasse 6 mit Eva Spiesberger 2016-02-27
+## Klasse 6 mit Eva Spiesberger 2016-03-05
 
 `Klasse 6` began with us laying words on a table like dominoes.
 They connected to form sentences but could only be validly combined a finite number of ways.
@@ -312,3 +312,92 @@ We used these directions to locate places relatively: `Melbourne ist im Süden v
 We then tested this ability by finding partners and helping each other find cities on a map of Germany.
 
 We finished with `Wo wohnt Winfried` from `Klasse 1`.
+
+## Klasse 7 mit Eva Spiesberger 2016-03-12
+
+Eva warned us that `Klasse 7` would be challenging.
+We learned the `Akkusativ` case which is used for the objects of sentences (which I could only remember by thinking about [RDF][]).
+
+[RDF]: https://w3.org/RDF
+
+Eva introduced the `Akkusativ` by showing that these two sentences are equivalent:
+
+```
+Der Mann kauft einen Hund.
+
+Einen Hund kauft der Mann.
+```
+
+In both sentences the subject is `Der Mann` and the object is `der Hund`, identified by the `Akkusativ indefinite ‚einen‘`.
+As long as V2 word order is adhered to the order of subject and object is not important.
+
+The `Akkusativ` definite, indefinite and negative articles are:
+
+<table>
+	<tr>
+		<th>Akkusativ</th>
+		<th>definiter Artikel</th>
+		<th>indefiniter Artikel</th>
+		<th>Negativartikel</th>
+	</tr>
+	<tr>
+		<td>maskulin</td>
+		<td>den</td>
+		<td>einen</td>
+		<td>keinen</td>
+	</tr>
+	<tr>
+		<td>neutral</td>
+		<td>das</td>
+		<td>ein</td>
+		<td>kein</td>
+	</tr>
+	<tr>
+		<td>feminin</td>
+		<td>die</td>
+		<td>eine</td>
+		<td>keine</td>
+	</tr>
+	<tr>
+		<td>plural</td>
+		<td>die</td>
+		<td>—</td>
+		<td>keine</td>
+	</tr>
+</table>
+
+We practised using these articles by reading a sad story about a man who bought a dog to cheer up his lonely son then consequently became lonely himself.
+Then we added the correct articles to a summary of Hamlet:
+
+```
+Der König hat einen Bruder. Er liebt den Bruder aber den
+Bruder liebt den König nicht. Der König hat auch einen Sohn.
+Der Sohn heißt Hamlet. Der Bruder ermordet den König und
+heiratet seine Frau. Aber den König kommt als Geist zurück.
+Hamlet, den Sohn, und sein Freund sehen den Geist. Den
+Geist sagt zu Hamlet „Dein Onkel ist der Mörder!“ Am Ende
+ermordet Hamlet seinen Onkel. So ist es.
+```
+
+Next we read sentences and identified which articles were `bestimmt oder unbestimmt` and which were `Nominativ oder Akkusativ`.
+
+Eva then further demonstrated the flexibility of word order by assigning us words on cards then having us stand in the various orders that are valid.
+The cards were:
+
+```
+Die Schüler
+lernen
+heute
+den Akkusativ
+mit Eva
+in Raum 5
+.
+```
+
+Then we learned the conjugations of `haben`.
+This was one of the earliest German words I had learned thanks to `Du Hast`.
+Back in those high school days I knew that `hast` sounded similar to `hasst` but had no idea about verb conjugation.
+It was nice to reflect on the progress that I had made.
+
+We finished with a puzzle that involved figuring out someone's family tree based on nine statements about their family.
+This was great fun and felt like it engaged a lot of my mind.
