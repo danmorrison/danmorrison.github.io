@@ -472,3 +472,73 @@ We finished by drawing things that we like and have to do then asking each other
 Andrew: Was willst du jeden Tag machen?
 Dan:    Ich will jeden Tag mit meiner Katze spielen.
 ```
+
+## Klasse 9 mit Eva Spiesberger 2016-04-02
+
+We began `Klasse 9` by learning how to tell the time.
+As someone who has willfully avoided learning how to read an analogue clock I figured this would be uncomfortable.
+
+There are plenty of round-about ways to tell the time in German:
+
+<table>
+	<tr>
+		<th>Es ist ...</th>
+		<th>Zeit</th>
+	</tr>
+	<tr>
+		<td>8 Uhr</td>
+		<td>8:00</td>
+	</tr>
+	<tr>
+		<td>5 vor 8</td>
+		<td>7:55</td>
+	</tr>
+	<tr>
+		<td>5 nach 8</td>
+		<td>8:05</td>
+	</tr>
+	<tr>
+		<td>viertel nach 8</td>
+		<td>8:15</td>
+	</tr>
+	<tr>
+		<td>viertel 8</td>
+		<td>7:15</td>
+	</tr>	
+	<tr>
+		<td>halb 8</td>
+		<td>7:30</td>
+	</tr>
+	<tr>
+		<td>dreiviertel 8</td>
+		<td>7:45</td>
+	</tr>
+	<tr>
+		<td>5 nach halb 8</td>
+		<td>7:35</td>
+	</tr>
+	<tr>
+		<td>8 Uhr 30</td>
+		<td>8:30</td>
+	</tr>
+</table>
+
+We then practised telling the time with the children's game [Wer kennt die Uhr?][].
+This combined both analogue clocks and Roman numerals and was an absolute challenge for me.
+
+[Wer kennt die Uhr?]: https://ravensburger.de/shop/grosse-marken/spielend-neues-lernen/wer-kennt-die-uhr-25056/index.html
+
+Eva had brought train tickets back from Europe and we practised asking each other when the train would be arriving or departing:
+
+```
+Wann fährt der Zug ab?
+Der Zug fährt am Mittwoch um 18:28 ab.
+```
+
+We finished by answering a sheet of questions about time:
+
+```
+Wann fängt das Konzert an?
+Wie lange dauert das Konzert?
+Wie spät ist es?
+```
