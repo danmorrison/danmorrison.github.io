@@ -288,7 +288,7 @@ Andrew: Das ist keine Gelbörse. Das ist eine Tasche.
 
 Then we practiced conjugation using a list of words and rolling a dice to choose from six nominative pronouns `ich`, `du`, `er/sie`, `wir`, `ihr` and `Sie`.
 
-Next we learned the cardinal directions (`die Himmelsrichtung`, literally "sky directions").
+Next we learned the cardinal directions (`die Himmelsrichtung`, literally "sky directions"):
 
 <table>
 	<tr>
@@ -399,5 +399,76 @@ This was one of the earliest German words I had learned thanks to `Du Hast`.
 Back in those high school days I knew that `hast` sounded similar to `hasst` but had no idea about verb conjugation.
 It was nice to reflect on the progress that I had made.
 
-We finished with a puzzle that involved figuring out someone's family tree based on nine statements about their family.
+Next we played a puzzle that involved figuring out someone's family tree based on nine statements about their family.
 This was great fun and felt like it engaged a lot of my mind.
+
+We finished with a memory game.
+In groups of four we took turns saying variations of `Ich reise nach Berlin und ich packe meinen Laptop` followed by what everyone preceding had packed.
+`Er packt sien Handy, sie packt ihren Bleistift,` etc.
+
+## Klasse 8 mit Eva Spiesberger 2016-03-19
+
+We began `Klasse 8` by sharing our hobbies.
+Mine were `laufen` and `Musik hören`.
+
+Eva taught us the word `Fussball` and I questioned her as I had learned it as `Fußball`.
+I later found out that as an Austrian she was unknowingly teaching us the `Österreichisches Deutsch` spelling rather than `Hochdeutsche`.
+
+Then we learned `trennbare Verben` (separable verbs).
+These verbs have a prefix that can be separated and moved to the end of the sentence.
+For example, `einkaufen` has the prefix `ein` and verb `kaufen` which in a sentence becomes `Ich kaufe heute ein.`
+
+Next we found verbs in cartoons of people in their `Freizeit` (free time).
+
+Then we learned irregular modal verbs:
+
+<table>
+	<tr>
+		<th></th>
+		<th>müssen</th>
+		<th>können</th>
+		<th>dürfen</th>
+		<th>wollen</th>
+		<th>sollen</th>
+	</tr>
+	<tr>
+		<td>ich</td>
+		<td>muss</td>
+		<td>kann</td>
+		<th>darf</th>
+		<th>will</th>
+		<th>soll</th>
+	</tr>
+	<tr>
+		<td>du</td>
+		<th>musst</th>
+		<th>kannst</th>
+		<th>darfst</th>
+		<td>willst</td>
+		<td>sollst</td>
+	</tr>
+	<tr>
+		<td>er/sie/es</td>
+		<th>muss</th>
+		<th>kann</th>
+		<th>darf</th>
+		<td>will</td>
+		<td>soll</td>
+	</tr>
+</table>
+
+We practiced making sentences with these:
+
+```
+Könnt ihr Fußball spielen?
+Natürlich kann ich Fußball spielen.
+```
+
+Then we translated signs into sentences ranging from `Hier soll man leise sein` to `Hier muss man nach links abbiegen`.
+
+We finished by drawing things that we like and have to do then asking each other what they are:
+
+```
+Andrew: Was willst du jeden Tag machen?
+Dan:    Ich will jeden Tag mit meiner Katze spielen.
+```
