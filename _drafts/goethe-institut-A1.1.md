@@ -541,3 +541,31 @@ Wann fängt das Konzert an?
 Wie lange dauert das Konzert?
 Wie spät ist es?
 ```
+
+## Klasse 10 mit Eva Spiesberger 2016-04-09
+
+`Klasse 10` began with revision of prepositions.
+`Um` before time, `am` before day, `von` one time `bis` another or `zwischen` both.
+
+Next we learned words that would be used in relation to `Frühstück` (breakfast) before breaking to have one.
+
+We had each brought in something to share.
+For a German breakfast croissants were oddly popular.
+I made a vegan [Kartoffelsalat][] with [Cheatin' Rashers][].
+Phil brought [Leberkäse][] which is an awful product containing neither `Leber` nor `Käse`.
+
+[Kartoffelsalat]: http://helloglow.co/vegan-german-potato-salad
+[Cheatin' Rashers]: http://vbitesfoods.com/product/meat-free-streaky-rashers-115g
+[Leberkäse]: https://en.wikipedia.org/wiki/Leberk%C3%A4se
+
+After the break we had a test which covered much of what we had learned in A1.1.
+We listened to people order food and drinks, buy furniture, talk about their holidays or living situations and read out their phone numbers.
+Then we read mail and advertisements.
+I got all but one question correct.
+
+After the test we revised words relating to time and separable verbs.
+
+Eva finished by playing a video of [Almabtrieb Tirol in Österreich][].
+While I could understand many of the words and sentences I don't think I'll ever quite understand that festival.
+
+[Almabtrieb Tirol in Österreich]: https://youtube.com/watch?v=j2JhxHRrQwQ
