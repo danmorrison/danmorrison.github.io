@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goethe-Institut extensive German course A1.1"
-date:   1970-01-01 00:00:00
+date:   2016-04-25T20:28:52+10:00
 ---
 
 In 2016 I achieved a goal I'd held for many years and began to formally study German.
