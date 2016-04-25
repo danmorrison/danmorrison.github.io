@@ -434,23 +434,23 @@ Then we learned irregular modal verbs:
 		<td>ich</td>
 		<td>muss</td>
 		<td>kann</td>
-		<td>darf</th>
-		<td>will</th>
-		<td>soll</th>
+		<td>darf</td>
+		<td>will</td>
+		<td>soll</td>
 	</tr>
 	<tr>
 		<td>du</td>
-		<td>musst</th>
-		<td>kannst</th>
-		<td>darfst</th>
+		<td>musst</td>
+		<td>kannst</td>
+		<td>darfst</td>
 		<td>willst</td>
 		<td>sollst</td>
 	</tr>
 	<tr>
 		<td>er/sie/es</td>
-		<td>muss</th>
-		<td>kann</th>
-		<td>darf</th>
+		<td>muss</td>
+		<td>kann</td>
+		<td>darf</td>
 		<td>will</td>
 		<td>soll</td>
 	</tr>
