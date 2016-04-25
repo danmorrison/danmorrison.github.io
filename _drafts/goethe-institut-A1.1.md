@@ -324,7 +324,6 @@ Eva introduced the `Akkusativ` by showing that these two sentences are equivalen
 
 ```
 Der Mann kauft einen Hund.
-
 Einen Hund kauft der Mann.
 ```
 
