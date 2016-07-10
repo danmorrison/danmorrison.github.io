@@ -101,3 +101,43 @@ Dan:    Bitte.
 Amanda: Der Schnitzel ist super aber die Kartoffeln brauchen Salz und Pfeffer.
 Dan:    Gerne.
 ```
+
+## Klasse 2 mit Eva Spiesberger 2016-04-30
+
+We began `Klasse 2` with `Kursbuch Kapitel 10` and a man wearing a [yellow armbind for blind and visually impaired persons][].
+Eva assured us this was common practice but to this `Ausländer` it looked reminiscent of World War II.
+
+[yellow armbind for blind and visually impaired persons]: http://bdb.at/Service/NormenDetail?id=100224
+
+Next we revised our vocabulary for words that would be used for means of transport (`das Verkehrsmittel`).
+I learned `die Straßenbahn` (tram) and `die Fähre` (ferry).
+Then we associated nouns to their related modes of transport and used them to complete sentences.
+
+After this we learned the `trennbare Verben` `ankommen` (to arrive) and `abfahren` (to leave).
+
+```
+Ich komme morgen in Hamburg an.
+```
+
+Then we used these to ask each other questions about train timetables:
+
+```
+Wann fährt der Zug von Frankfurt nach Dresden ab?
+Er fährt um 06:38 ab.
+
+Wann kommt er an?
+Er kommt um 14:39 an.
+```
+
+Next we learned some `Präpositionen` (prepositions).
+`Nach` is used when travelling to *somewhere*, `zu` to *someone*, `auf` *on* somewhere such as an island and `an` *by* somewhere such as the sea.
+
+```
+Familie Grüne fährt im Sommer nach Frankreich.
+Dorothee fährt im August zu Oma und Opa.
+Susanne möchte auf die Insel Sylt fahren.
+Herr Schulz möchte an die Ostsee fahren.
+```
+
+We finished by forming groups and drawing ` Reisepläne` (itineraries).
+I drew some highlights of Canberra and convinced the class of its merits.
