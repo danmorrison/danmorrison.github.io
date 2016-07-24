@@ -149,7 +149,7 @@ Days later Cass told me that I was speaking English differently.
 I think the biggest change was learning V2 word order.
 In my youth I had resisted learning a second language for imperial reasons and it took only three weeks of classes to unseat English as my natural language.
 
-`Aufgabe 4` introduced the wonderful word `doch`.
+`Aufgabe 5` introduced the wonderful word `doch`.
 It addresses the problem that is caused when a question is asked with a negative assumption:
 
 ```
