@@ -4,8 +4,10 @@ title:  "Requiem Metal Podcast 178"
 date:   2016-08-20T19:21:27+10:00
 ---
 
-​I've found Requiem Metal Podcast in the search results of many iTunes searches.
+​I've found [Requiem Metal Podcast][] in the search results of many iTunes searches.
 The hosts Mark and Jason have covered many bands that I love and spoken about them with experience.
+
+[Requiem Metal Podcast]: https://itunes.apple.com/podcast/id216744980
 
 Some of my favourite episodes have been their best-ofs that covered each year from 2008 to 2012.
 
