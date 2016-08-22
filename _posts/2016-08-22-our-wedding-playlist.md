@@ -110,4 +110,4 @@ You can listen to this [shared playlist][] with Apple Music.
 - [For Tonight You're Only Here to Know by the Distillers](https://itunes.apple.com/album/id2897928?i=2897919)
 - [Going Down to Die by Danzig](https://itunes.apple.com/album/id1024611514?i=1024611938)
 - [Shake by the Creepshow](https://itunes.apple.com/album/id1042680853?i=1042680863)
-- [Only Happy When It Rains by Garbage](https://itunes.apple.com/au/album/garbage-20th-anniversary-deluxe/id1031105676?i=1031105680)
+- [Only Happy When It Rains by Garbage](https://itunes.apple.com/album/id1031105676?i=1031105680)
