@@ -6,14 +6,14 @@ date:   1970-01-01 00:00:00
 
 After a one-week break I returned to formally studying German with the Goethe-Institut.
 
-​​The [textbook][] (`Kursbuch`) and [workbook][] (`Arbeitsbuch`) for this course were Menschen A1.
+The [textbook][] (`Kursbuch`) and [workbook][] (`Arbeitsbuch`) for this course were again Menschen A1.
 
 [textbook]: https://shop.hueber.de/de/menschen-a1-kb-mit-dvd-rom.html
 [workbook]: https://shop.hueber.de/de/menschen-a1-ab-mit-2-audio-cds.html
 
 ## Klasse 1 mit Eva Spiesberger 2016-04-23
 
-Eva who taught A1.1 followed me to class A1.2 along with Dain, Phil and Michaël.
+Eva who taught A1.1 followed me to class A1.2 along with Dain, Andrew, Phil and Michaël.
 She continued to favour print-outs over our textbook so we again kept our books closed the entire class.
 
 We began with dialogue:
@@ -139,5 +139,28 @@ Susanne möchte auf die Insel Sylt fahren.
 Herr Schulz möchte an die Ostsee fahren.
 ```
 
-We finished by forming groups and drawing ` Reisepläne` (itineraries).
-I drew some highlights of Canberra and convinced the class of its merits.
+We finished by forming groups and drawing `Reisepläne` (itineraries).
+I drew some of the highlights of Canberra and convinced the class of its merits.
+
+## Klasse 3 mit Eva Spiesberger 2016-05-07
+
+Eva began `Klasse 3` by warning us that it would be `brutal`.
+
+```
+Andrew: Is "brutal" a German word?
+Eva:    Natürlich.
+```
+
+The brutal theme of the class was the `Perfekt` tense.
+
+## Klasse 4 mit Eva Spiesberger 2016-05-14
+
+## Klasse 5 mit Eva Spiesberger 2016-05-21
+
+## Klasse 6 mit Eva Spiesberger 2016-05-28
+
+## Klasse 7 mit Eva Spiesberger 2016-06-04
+
+## Klasse 8 mit Eva Spiesberger 2016-06-11
+
+## Klasse 10 mit Eva Spiesberger 2016-06-25
