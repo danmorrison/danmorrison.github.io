@@ -32,11 +32,10 @@ So, from this hateful trend I have taken a principle for writing:
 
 > Be subjective.
 
-I first realised the need for this principle when my wife Cass read my first [Yelp][] reviews and told me "they don't sound like you."
+I first realised the need for this principle when my wife Cass read my first Yelp reviews and told me "they don't sound like you."
 By trying to selflessly communicate my experiences to imagined readers I had ended up sounding more like [real people][] than a real person.
 I believe writing subjectively is more honest and hopefully also more interesting.
 
-[Yelp]: http://yelp.com/user_details_reviews_self?userid=3AYOIgsYChLVgyI1TIcgrw
 [real people]: http://officialblog.yelp.com/2011/06/yelp-and-the-1990-rule.html
 
 I think Albert Einstein was a great practitioner of the subjective approach and that his magnificent essay [Why Socialism?][] exemplifies this.
