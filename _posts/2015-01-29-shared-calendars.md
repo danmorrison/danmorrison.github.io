@@ -13,23 +13,23 @@ On iOS you can subscribe to a calendar published on the web in iCalendar format 
 If the calendar is instead published as an attachment you can add it manually:
 
 1. Copy the calendar location.
-2. Open the `Settings` app.
-3. Tap `Mail, Contacts, Calendars`.
-4. Tap `Add Account`.
-5. Tap `Other`.
-6. Tap `Add Subscribed Calendar`.
-7. Paste the calendar location into the `Server` text field.
-8. Modify the `Description` if desired.
-9. Tap `Save`.
+1. Open the `Settings` app.
+1. Tap `Mail, Contacts, Calendars`.
+1. Tap `Add Account`.
+1. Tap `Other`.
+1. Tap `Add Subscribed Calendar`.
+1. Paste the calendar location into the `Server` text field.
+1. Modify the `Description` if desired.
+1. Tap `Save`.
 
 Adding the calendar subscription to iCloud unfortunately requires using OS X.
 On OS X you can add it by:
 
 1. Copy the calendar location.
-2. Open the `Calendar` app.
-3. Click `File` then `New Calendar Subscription …`
-4. Paste the calendar location into the `Calendar URL` text field.
-5. Click `Subscribe`.
-6. Modify the calendar `Name` and `Colour` if desired.
-7. Ensure the `Location` is set to `iCloud`.
-8. Click OK.
+1. Open the `Calendar` app.
+1. Click `File` then `New Calendar Subscription …`
+1. Paste the calendar location into the `Calendar URL` text field.
+1. Click `Subscribe`.
+1. Modify the calendar `Name` and `Colour` if desired.
+1. Ensure the `Location` is set to `iCloud`.
+1. Click OK.

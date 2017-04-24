@@ -9,7 +9,7 @@ The trend was named by [Adam Baldwin][] (whose work I've accordingly blacklisted
 I see it as embodying two things:
 
 1. Misogyny.
-2. A plea for ethics in journalism.
+1. A plea for ethics in journalism.
 
 [Adam Baldwin]: http://imdb.com/name/nm0000284
 
