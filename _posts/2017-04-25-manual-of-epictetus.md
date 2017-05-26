@@ -13,7 +13,8 @@ date:   2017-04-25T16:45:17+10:00
 > Remember then that if you imagine that what is naturally slavish is free, and what is naturally another's is your own, you will be hampered, you will mourn, you will be put to confusion, you will blame gods and men; but if you think that only your own belongs to you, and that what is another's is indeed another's, no one will ever put compulsion or hindrance on you, you will blame none, you will accuse none, you will do nothing against your will, no one will harm you, you will have no enemy, for no harm can touch you.
 > <br /><br />
 > Aiming then at these high matters, you must remember that to attain them requires more than ordinary effort; you will have to give up some things entirely, and put off others for the moment.
-And if you would have these also - office and wealth - it may be that you will > fail to get them, just because your desire is set on the former, and you will certainly fail to attain those things which alone bring freedom and happiness.
+And if you would have these also - office and wealth - it may be that you will
+> fail to get them, just because your desire is set on the former, and you will certainly fail to attain those things which alone bring freedom and happiness.
 > <br /><br />
 > <mark>Make it your study then to confront every harsh impression with the words, 'You are but an impression, and not at all what you seem to be'.
 > Then test it by those rules that you possess; and first by this - the chief test of all - 'Is it concerned with what is in our power or with what is not in our power?'
@@ -309,7 +310,8 @@ And if you would have these also - office and wealth - it may be that you will >
 > And if we guard this in everything we do, we shall set to work more securely.
 >
 > 1. Every man's body is a measure for his property, as the foot is the measure for his shoe.
-> If you stick to this limit, you will keep the right measure; > if you go beyond it, you are bound to be carried away down a precipice in the end; just as with the shoe, if you once go beyond the foot, your shoe puts on gilding, and soon purple and embroidery.
+> If you stick to this limit, you will keep the right measure;
+> if you go beyond it, you are bound to be carried away down a precipice in the end; just as with the shoe, if you once go beyond the foot, your shoe puts on gilding, and soon purple and embroidery.
 > For when once you go beyond the measure there is no limit.
 >
 > 1. Women from fourteen years upwards are called 'madam' by men.
