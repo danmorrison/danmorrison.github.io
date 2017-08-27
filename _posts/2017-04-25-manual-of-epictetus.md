@@ -16,8 +16,8 @@ date:   2017-04-25T16:45:17+10:00
 And if you would have these also - office and wealth - it may be that you will
 > fail to get them, just because your desire is set on the former, and you will certainly fail to attain those things which alone bring freedom and happiness.
 > <br /><br />
-> <mark>Make it your study then to confront every harsh impression with the words, ‘You are but an impression, and not at all what you seem to be’.
-> Then test it by those rules that you possess; and first by this - the chief test of all - ‘Is it concerned with what is in our power or with what is not in our power?’
+> <mark>Make it your study then to confront every harsh impression with the words, “You are but an impression, and not at all what you seem to be”.
+> Then test it by those rules that you possess; and first by this - the chief test of all - “Is it concerned with what is in our power or with what is not in our power?”
 > And if it is concerned with what is not in our power, be ready with the answer that it is nothing to you.</mark>
 > <br /><br />
 > 1. <mark>Remember that the will to get promises attainment of what you will, and the will to avoid promises escape from what you avoid; and he who fails to get what he wills is unfortunate, and he who does not escape what he wills to avoid is miserable.</mark>
@@ -27,12 +27,12 @@ And if you would have these also - office and wealth - it may be that you will
 > But for the moment you must utterly remove the will to get; for if you will to get something not in man's power you are bound to be unfortunate; while none of the things in man's power that you could honourably will to get is yet within your reach.
 > Impulse to act and not to act, these are your concern; yet exercise them gently and without strain, and provisionally.
 >
-> 1. <mark>When anything, from the meanest thing upwards, is attractive or serviceable or an object of affection, remember always to say to yourself, ‘What is its nature?’
+> 1. <mark>When anything, from the meanest thing upwards, is attractive or serviceable or an object of affection, remember always to say to yourself, “What is its nature?”
 > If you are fond of a jug, say you are fond of a jug; then you will not be disturbed if it be broken.</mark>
 > If you kiss your child or your wife, say to yourself that you are kissing a human being, for then if death strikes it you will not be disturbed.
 >
 > 1. <mark>When you are about to take something in hand, remind yourself what manner of thing it is.
-> If you are going to bathe put before your mind what happens in the bath - water pouring over some, others being jostled, some reviling, others stealing; and you will set to work more securely if you say to yourself at once: ‘I want to bathe, and I want to keep my will in harmony with nature,’ and so in each thing you do; for in this way, if anything turns up to hinder you in your bathing, you will be ready to say, ‘I did not want only to bathe, but to keep my will in harmony with nature, and I shall not so keep it, if I lose my temper at what happens’.</mark>
+> If you are going to bathe put before your mind what happens in the bath - water pouring over some, others being jostled, some reviling, others stealing; and you will set to work more securely if you say to yourself at once: “I want to bathe, and I want to keep my will in harmony with nature,” and so in each thing you do; for in this way, if anything turns up to hinder you in your bathing, you will be ready to say, “I did not want only to bathe, but to keep my will in harmony with nature, and I shall not so keep it, if I lose my temper at what happens”.</mark>
 >
 > 1. <mark>What disturbs men’s minds is not events but their judgements on events</mark>: For instance, death is nothing dreadful, or else Socrates would have thought it so.
 > No, the only dreadful thing about it is men's judgement that it is dreadful.
@@ -40,8 +40,8 @@ And if you would have these also - office and wealth - it may be that you will
 > To accuse others for one’s own misfortunes is a sign of want of education; to accuse oneself shows that one’s education has begun; to accuse neither oneself nor others shows that one’s education is complete.</mark>
 >
 > 1. Be not elated at an excellence which is not your own.
-> If the horse in his pride were to say, 'I am handsome', we could bear with it.
-> But when you say with pride, 'I have a handsome horse', know that the good horse is the ground of your pride.
+> If the horse in his pride were to say, "I am handsome", we could bear with it.
+> But when you say with pride, "I have a handsome horse", know that the good horse is the ground of your pride.
 > You ask then what you can call your own.
 > The answer is - the way you deal with your impressions.
 > Therefore when you deal with your impressions in accord with nature, then you may be proud indeed, for your pride will be in a good which is your own.
@@ -62,15 +62,24 @@ And if you would have these also - office and wealth - it may be that you will
 > If you see a beautiful boy or a beautiful woman, you will find continence the faculty to exercise there; if trouble is laid on you, you will find endurance; if ribaldry, you will find patience.
 > And if you train yourself in this habit your impressions will not carry you away.
 >
-> 1. Never say of anything, 'I lost it', but say, 'I gave it back'. Has your child died? It was given back. Has your wife died? She was given back. Has your estate been taken from you? Was not this also given back? But you say, 'He who took it from me is wicked'. What does it matter to you through whom the Giver asked it back? As long as He gives it you, take care of it, but not as your own; treat it as passers-by treat an inn.
+> 1. Never say of anything, "I lost it", but say, "I gave it back".
+> Has your child died?
+> It was given back.
+> Has your wife died?
+> She was given back.
+> Has your estate been taken from you?
+> Was not this also given back?
+> But you say, "He who took it from me is wicked".
+> What does it matter to you through whom the Giver asked it back?
+> As long as He gives it you, take care of it, but not as your own; treat it as passers-by treat an inn.
 >
-> 1. If you wish to make progress, abandon reasonings of this sort: 'If I neglect my affairs I shall have nothing to live on'; 'If I do not punish my son, he will be wicked.'
+> 1. If you wish to make progress, abandon reasonings of this sort: "If I neglect my affairs I shall have nothing to live on"; "If I do not punish my son, he will be wicked."
 > For it is better to die of hunger, so that you be free from pain and free from fear, than to live in plenty and be troubled in mind.
 > It is better for your son to be wicked than for you to be miserable.
 > Wherefore begin with little things.
 > Is your drop of oil spilt?
 > Is your sup of wine stolen?
-> Say to yourself, 'This is the price paid for freedom from passion, this is the price of a quiet mind.'
+> Say to yourself, "This is the price paid for freedom from passion, this is the price of a quiet mind."
 > Nothing can be had without a price.
 > When you call your slave-boy, reflect that he may not be able to hear you, and if he hears you, he may not be able to do anything you want.
 > But he is not so well off that it rests with him to give you peace of mind.
@@ -95,15 +104,15 @@ And if you would have these also - office and wealth - it may be that you will
 > For by so doing Diogenes and Heraclitus and men like them were called divine and deserved the name.
 >
 > 1. When you see a man shedding tears in sorrow for a child abroad or dead, or for loss of property, beware that you are not carried away by the impression that it is outward ills that make him miserable.
-> Keep this thought by you: 'What distresses him is not the event, for that does not distress another, but his judgement on the event.'
+> Keep this thought by you: "What distresses him is not the event, for that does not distress another, but his judgement on the event."
 > Therefore do not hesitate to sympathize with him so far as words go, and if it so chance, even to groan with him; but take heed that you do not also groan in your inner being.
 >
 > 1. Remember that you are an actor in a play, and the Playwright chooses the manner of it: if he wants it short, it is short; if long, it is long.
 > If he wants you to act a poor man you must act the part with all your powers; and so if your part be a cripple or a magistrate or a plain man.
 > For your business is to act the character that is given you and act it well; the choice of the cast is Another's.
 >
-> 1. When a raven croaks with evil omen, let not the impression carry you away, but straightway distinguish in your own mind and say, 'These portents mean nothing to me; but only to my bit of a body or my bit of property or name, or my children or my wife.
-> But <mark>for me all omens are favourable if I will, for, whatever the issue may be, it is in my power to get benefit therefrom.</mark>'
+> 1. When a raven croaks with evil omen, let not the impression carry you away, but straightway distinguish in your own mind and say, "These portents mean nothing to me; but only to my bit of a body or my bit of property or name, or my children or my wife.
+> But <mark>for me all omens are favourable if I will, for, whatever the issue may be, it is in my power to get benefit therefrom.</mark>"
 >
 > 1. You can be invincible, if you never enter on a contest where victory is not in your power.
 > Beware then that when you see a man raised to honour or great power or high repute you do not let your impression carry you away.
@@ -117,29 +126,29 @@ And if you would have these also - office and wealth - it may be that you will
 >
 > 1. <mark>Keep before your eyes from day to day death and exile and all things that seem terrible, but death most of all, and then you will never set your thoughts on what is low and will never desire anything beyond measure.</mark>
 >
-> 1. If you set your desire on philosophy you must at once prepare to meet with ridicule and the jeers of many who will say, 'Here he is again, turned philosopher.
-> Where has he got these proud looks?'
+> 1. If you set your desire on philosophy you must at once prepare to meet with ridicule and the jeers of many who will say, "Here he is again, turned philosopher.
+> Where has he got these proud looks?"
 > Nay, put on no proud looks, but hold fast to what seems best to you, in confidence that God has set you at this post.
 > And remember that if you abide where you are, those who first laugh at you will one day admire you, and that if you give way to them, you will get doubly laughed at.
 >
 > 1. <mark>If it ever happen to you to be diverted to things outside, so that you desire to please another, know that you have lost your life’s plan.</mark>
 > Be content then always to be a philosopher; if you wish to be regarded as one too, show yourself that you are one and you will be able to achieve it.
 >
-> 1. Let not reflections such as these afflict you: 'I shall live without honour, and never be of any account'; for if lack of honour is an evil, no one but yourself can involve you in evil any more than in shame.
+> 1. Let not reflections such as these afflict you: "I shall live without honour, and never be of any account"; for if lack of honour is an evil, no one but yourself can involve you in evil any more than in shame.
 > Is it your business to get office or to be invited to an entertainment?
 > <br /><br />
 > Certainly not.
 > <br /><br />
 > Where then is the dishonour you talk of?
-> How can you be 'of no account anywhere', when you ought to count for something in those matters only which are in your power, where you may achieve the highest worth?
-> 'But my friends,' you say, 'will lack assistance.'
+> How can you be "of no account anywhere", when you ought to count for something in those matters only which are in your power, where you may achieve the highest worth?
+> "But my friends," you say, "will lack assistance."
 > <br /><br />
-> What do you mean by 'lack assistance'?
+> What do you mean by "lack assistance"?
 > They will not have cash from you and you will not make them Roman citizens.
 > Who told you that to do these things is in our power, and not dependent upon others?
 > Who can give to another what is not his to give?
 > <br /><br />
-> 'Get them then,' says he, 'that we may have them.'
+> "Get them then," says he, "that we may have them."
 > <br /><br />
 > If I can get them and keep my self-respect, honour, magnanimity, show the way and I will get them.
 > But if you call on me to lose the good things that are mine, in order that you may win things that are not good, look how unfair and thoughtless you are.
@@ -147,7 +156,7 @@ And if you would have these also - office and wealth - it may be that you will
 > Money, or a faithful, modest friend?
 > Therefore help me rather to keep these qualities, and do not expect from me actions which will make me lose them.
 > <br /><br />
-> 'But my country,' says he, 'will lack assistance, so far as lies in me.'
+> "But my country," says he, "will lack assistance, so far as lies in me."
 > <br /><br />
 > Once more I ask, What assistance do you mean?
 > It will not owe colonnades or baths to you.
@@ -155,11 +164,11 @@ And if you would have these also - office and wealth - it may be that you will
 > It does not owe shoes to the blacksmith or arms to the shoemaker; it is sufficient if each man fulfils his own function.
 > Would you do it no good if you secured to it another faithful and modest citizen?
 > <br /><br />
-> 'Yes.'
+> "Yes."
 > <br /><br />
 > Well, then, you would not be useless to it.
 > <br /><br />
-> 'What place then shall I have in the city?'
+> "What place then shall I have in the city?"
 > <br /><br />
 > Whatever place you can hold while you keep your character for honour and self-respect.
 > But if you are going to lose these qualities in trying to benefit your city, what benefit, I ask, would you have done her when you attain to the perfection of being lost to shame and honour?
@@ -185,11 +194,11 @@ And if you would have these also - office and wealth - it may be that you will
 > Nay, you have this, you have not praised the man you did not want to praise, you have not had to bear with the insults of his doorstep.
 >
 > 1. <mark>It is in our power to discover the will of Nature from those matters on which we have no difference of opinion.</mark>
-> For instance, when another man's slave has broken the wine-cup we are very ready to say at once, 'Such things must happen'.
+> For instance, when another man's slave has broken the wine-cup we are very ready to say at once, "Such things must happen".
 > <mark>Know then that when your own cup is broken, you ought to behave in the same way as when your neighbour’s was broken.</mark>
 > Apply the same principle to higher matters.
 > Is another's child or wife dead?
-> Not one of us but would say, 'Such is the lot of man'; but when one's own dies, straightway one cries, 'Alas! miserable am I'.
+> Not one of us but would say, "Such is the lot of man"; but when one's own dies, straightway one cries, "Alas! miserable am I".
 > But we ought to remember what our feelings are when we hear it of another.
 >
 > 1. As a mark is not set up for men to miss it, so there is nothing intrinsically evil in the world.
@@ -221,15 +230,15 @@ And if you would have these also - office and wealth - it may be that you will
 > You must be one man, good or bad; you must develop either your Governing Principle, or your outward endowments; you must study either your inner man, or outward things - in a word, you must choose between the position of a philosopher and that of a mere outsider.
 >
 > 1. Appropriate acts are in general measured by the relations they are concerned with.
-> 'He is your father.'
+> "He is your father."
 > This means you are called on to take care of him, give way to him in all things, bear with him if he reviles or strikes you.
 > <br /><br />
-> 'But he is a bad father.'
+> "But he is a bad father."
 > <br /><br />
 > Well, have you any natural claim to a good father?
 > No, only to a father.
 > <br /><br />
-> 'My brother wrongs me.'
+> "My brother wrongs me."
 > <br /><br />
 > Be careful then to maintain the relation you hold to him, and do not consider what he does, but what you must do if your purpose is to keep in accord with nature.
 > For no one shall harm you, without your consent; you will only be harmed, when you think you are harmed.
@@ -272,7 +281,7 @@ And if you would have these also - office and wealth - it may be that you will
 > <br /><br />
 > Avoid impurity to the utmost of your power before marriage, and if you indulge your passion, let it be done lawfully.
 > But do not be offensive or censorious to those who indulge it, and do not be always bringing up your own chastity.
-> If some one tells you that so and so speaks ill of you, do not defend yourself against what he says, but answer, 'He did not know my other faults, or he would not have mentioned these alone.'
+> If some one tells you that so and so speaks ill of you, do not defend yourself against what he says, but answer, "He did not know my other faults, or he would not have mentioned these alone."
 > <br /><br />
 > It is not necessary for the most part to go to the games; but if you should have occasion to go, show that your first concern is for yourself; that is, wish that only to happen which does happen, and him only to win who does win, for so you will suffer no hindrance.
 > But refrain entirely from applause, or ridicule, or prolonged excitement.
@@ -280,10 +289,10 @@ And if you would have these also - office and wealth - it may be that you will
 > For to talk about it implies that the spectacle excited your wonder.
 > <br /><br />
 > Do not go lightly or casually to hear lectures; but if you do go, maintain your gravity and dignity and do not make yourself offensive.
-> When you are going to meet any one, and particularly some man of reputed eminence, set before your mind the thought, 'What would Socrates or Zeno have done?' and you will not fail to make proper use of the occasion.
+> When you are going to meet any one, and particularly some man of reputed eminence, set before your mind the thought, "What would Socrates or Zeno have done?" and you will not fail to make proper use of the occasion.
 > <br /><br />
 > When you go to visit some great man, prepare your mind by thinking that you will not find him in, that you will be shut out, that the doors will be slammed in your face, that he will pay no heed to you.
-> And if in spite of all this you find it fitting for you to go, go and bear what happens and never say to yourself, 'It was not worth all this'; for that shows a vulgar mind and one at odds with outward things.
+> And if in spite of all this you find it fitting for you to go, go and bear what happens and never say to yourself, "It was not worth all this"; for that shows a vulgar mind and one at odds with outward things.
 > <br /><br />
 > <mark>In your conversation avoid frequent and disproportionate mention of your own doings or adventures; for other people do not take the same pleasure in hearing what has happened to you as you take in recounting your adventures.</mark>
 > <br /><br />
@@ -300,7 +309,7 @@ And if you would have these also - office and wealth - it may be that you will
 > 1. <mark>When you do a thing because you have determined that it ought to be done, never avoid being seen doing it, even if the opinion of the multitude is going to condemn you.
 > For if your action is wrong, then avoid doing it altogether, but if it is right, why do you fear those who will rebuke you wrongly?</mark>
 >
-> 1. The phrases, 'It is day' and 'It is night', mean a great deal if taken separately, but have no meaning if combined.
+> 1. The phrases, "It is day" and "It is night", mean a great deal if taken separately, but have no meaning if combined.
 > In the same way, to choose the larger portion at a banquet may be worth while for your body, but if you want to maintain social decencies it is worthless.
 > Therefore, when you are at meat with another, remember not only to consider the value of what is set before you for the body, but also to maintain your self-respect before your host.
 >
@@ -314,7 +323,7 @@ And if you would have these also - office and wealth - it may be that you will
 > if you go beyond it, you are bound to be carried away down a precipice in the end; just as with the shoe, if you once go beyond the foot, your shoe puts on gilding, and soon purple and embroidery.
 > For when once you go beyond the measure there is no limit.
 >
-> 1. Women from fourteen years upwards are called 'madam' by men.
+> 1. Women from fourteen years upwards are called "madam" by men.
 > Wherefore, when they see that the only advantage they have got is to be marriageable, they begin to make themselves smart and to set all their hopes on this.
 > We must take pains then to make them understand that they are really honoured for nothing but a modest and decorous life.
 >
@@ -324,13 +333,13 @@ And if you would have these also - office and wealth - it may be that you will
 > 1. When a man speaks evil or does evil to you, remember that he does or says it because he thinks it is fitting for him.
 > It is not possible for him to follow what seems good to you, but only what seems good to him, so that, if his opinion is wrong, he suffers, in that he is the victim of deception.
 > In the same way, if a composite judgement which is true is thought to be false, it is not the judgement that suffers, but the man who is deluded about it.
-> If you act on this principle you will be gentle to him who reviles you, saying to yourself on each occasion, 'He thought it right.'
+> If you act on this principle you will be gentle to him who reviles you, saying to yourself on each occasion, "He thought it right."
 >
 > 1. Everything has two handles, one by which you can carry it, the other by which you cannot.
 > If your brother wrongs you, do not take it by that handle, the handle of his wrong, for you cannot carry it by that, but rather by the other handle - that he is a brother, brought up with you, and then you will take it by the handle that you can carry by.
 >
-> 1. <mark>It is illogical to reason thus, ‘I am richer than you, therefore I am superior to you’, ‘I am more eloquent than you, therefore I am superior to you.’
-> It is more logical to reason, ‘I am richer than you, therefore my property is superior to yours’, ‘I am more eloquent than you, therefore my speech is superior to yours.’
+> 1. <mark>It is illogical to reason thus, “I am richer than you, therefore I am superior to you”, “I am more eloquent than you, therefore I am superior to you.”
+> It is more logical to reason, “I am richer than you, therefore my property is superior to yours”, “I am more eloquent than you, therefore my speech is superior to yours.”
 > You are something more than property or speech.</mark>
 >
 > 1. If a man wash quickly, do not say that he washes badly, but that he washes quickly.
@@ -342,11 +351,11 @@ And if you would have these also - office and wealth - it may be that you will
 > For instance, at a banquet do not say how one ought to eat, but eat as you ought.
 > Remember that Socrates had so completely got rid of the thought of display that when men came and wanted an introduction to philosophers he took them to be introduced; so patient of neglect was he.
 > And if a discussion arise among the multitude on some principle, keep silent for the most part; for you are in great danger of blurting out some undigested thought.
-> And when some one says to you, 'You know nothing', and you do not let it provoke you, then know that you are really on the right road.
+> And when some one says to you, "You know nothing", and you do not let it provoke you, then know that you are really on the right road.
 > For <mark>sheep do not bring grass to their shepherds and show them how much they have eaten, but they digest their fodder and then produce it in the form of wool and milk.
 > Do the same yourself; instead of displaying your principles to the multitude, show them the results of the principles you have digested.</mark>
 >
-> 1. When you have adopted the simple life, do not pride yourself upon it, and if you are a water-drinker do not say on every occasion, 'I am a water-drinker.'
+> 1. When you have adopted the simple life, do not pride yourself upon it, and if you are a water-drinker do not say on every occasion, "I am a water-drinker."
 > And if you ever want to train laboriously, keep it to yourself and do not make a show of it.
 > Do not embrace statues.
 > If you are very thirsty take a good draught of cold water, and rinse you mouth and tell no one.
@@ -362,7 +371,7 @@ And if you would have these also - office and wealth - it may be that you will
 > If men regard him as foolish or ignorant he pays no heed.
 > In one word, he keeps watch and guard on himself as his own enemy, lying in wait for him.
 >
-> 1. When a man prides himself on being able to understand and interpret the books of Chrysippus, say to yourself, 'If Chrysippus had not written obscurely this man would have had nothing on which to pride himself.'
+> 1. When a man prides himself on being able to understand and interpret the books of Chrysippus, say to yourself, "If Chrysippus had not written obscurely this man would have had nothing on which to pride himself."
 > <br /><br />
 > What is my object?
 > To understand Nature and follow her.
@@ -371,7 +380,7 @@ And if you would have these also - office and wealth - it may be that you will
 > So far there is nothing to be proud of.
 > But when I have found the interpreter it remains for me to act on his precepts; that and that alone is a thing to be proud of.
 > But <mark>if I admire the mere power of exposition, it comes to this - that I am turned into a grammarian instead of a philosopher</mark>, except that I interpret Chrysippus in place of Homer.
-> <mark>Therefore, when some one says to me, ‘Read me Chrysippus’, when I cannot point to actions which are in harmony and correspondence with his teaching, I am rather inclined to blush.</mark>
+> <mark>Therefore, when some one says to me, “Read me Chrysippus”, when I cannot point to actions which are in harmony and correspondence with his teaching, I am rather inclined to blush.</mark>
 >
 > 1. <mark>Whatever principles you put before you, hold fast to them as laws which it will be impious to transgress.
 > But pay no heed to what any one says of you; for this is something beyond your own control.</mark>
@@ -387,9 +396,10 @@ And if you would have these also - office and wealth - it may be that you will
 > This was how Socrates attained perfection, paying heed to nothing but reason, in all that he encountered.
 And if you are not yet Socrates, yet ought you to live as one who would wish to be a Socrates.
 >
-> 1. The first and most necessary department of philosophy deals with the application of principles; for instance, 'not to lie'.
-> The second deals with demonstrations; for instance, 'How comes it that one ought not to lie?'
-> The third is concerned with establishing and analysing these processes; for instance, 'How comes it that this is a demonstration? What is demonstration, what is consequence, what is contradiction, what is true, what is false?'
+> 1. The first and most necessary department of philosophy deals with the application of principles; for instance, "not to lie".
+> The second deals with demonstrations; for instance, "How comes it that one ought not to lie?"
+> The third is concerned with establishing and analysing these processes; for instance, "How comes it that this is a demonstration?
+> What is demonstration, what is consequence, what is contradiction, what is true, what is false?"
 > It follows then that the third department is necessary because of the second, and the second because of the first.
 > The first is the most necessary part, and that in which we must rest.
 > But we reverse the order: we occupy ourselves with the third, and make that our whole concern, and the first we completely neglect.
