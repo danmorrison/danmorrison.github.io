@@ -52,7 +52,7 @@ date:   2017-04-24T12:14:48+10:00
 > But the personality that finally emerges is largely formed by the environment in which a man happens to find himself during his development, by the structure of the society in which he grows up, by the tradition of that society, and by its appraisal of particular types of behavior.
 > The abstract concept "society" means to the individual human being the sum total of his direct and indirect relations to his contemporaries and to all the people of earlier generations.
 > <mark>The individual is able to think, feel, strive, and work by himself; but he depends so much upon society — in his physical, intellectual, and emotional existence — that it is impossible to think of him, or to understand him, outside the framework of society.
-> It is "society" which provides man with food, clothing, a home, the tools of work, language, the forms of thought, and most of the content of thought; his life is made possible through the labor and the accomplishments of the many millions past and present who are all hidden behind the small word "society."</mark>
+> It is “society” which provides man with food, clothing, a home, the tools of work, language, the forms of thought, and most of the content of thought; his life is made possible through the labor and the accomplishments of the many millions past and present who are all hidden behind the small word “society.”</mark>
 >
 > It is evident, therefore, that the dependence of the individual upon society is a fact of nature which cannot be abolished — just as in the case of ants and bees.
 > However, while the whole life process of ants and bees is fixed down to the smallest detail by rigid, hereditary instincts, the social pattern and interrelationships of human beings are very variable and susceptible to change.
@@ -90,7 +90,7 @@ date:   2017-04-24T12:14:48+10:00
 > The owner of the means of production is in a position to purchase the labor power of the worker.
 > By using the means of production, the worker produces new goods which become the property of the capitalist.
 > The essential point about this process is the relation between what the worker produces and what he is paid, both measured in terms of real value.
-> Insofar as the labor contract is "free," what the worker receives is determined not by the real value of the goods he produces, but by his minimum needs and by the capitalists’ requirements for labor power in relation to the number of workers competing for jobs.
+> Insofar as the labor contract is "free," what the worker receives is determined not by the real value of the goods he produces, but by his minimum needs and by the capitalists' requirements for labor power in relation to the number of workers competing for jobs.
 > It is important to understand that even in theory the payment of the worker is not determined by the value of his product.
 >
 > Private capital tends to become concentrated in few hands, partly because of competition among the capitalists, and partly because technological development and the increasing division of labor encourage the formation of larger units of production at the expense of smaller ones.
@@ -108,7 +108,7 @@ date:   2017-04-24T12:14:48+10:00
 > Production is carried on for profit, not for use.
 > There is no provision that all those able and willing to work will always be in a position to find employment; an "army of unemployed" almost always exists.
 > The worker is constantly in fear of losing his job.
-> Since unemployed and poorly paid workers do not provide a profitable market, the production of consumers’ goods is restricted, and great hardship is the consequence.
+> Since unemployed and poorly paid workers do not provide a profitable market, the production of consumers' goods is restricted, and great hardship is the consequence.
 > Technological progress frequently results in more unemployment rather than in an easing of the burden of work for all.
 > The profit motive, in conjunction with competition among capitalists, is responsible for an instability in the accumulation and utilization of capital which leads to increasingly severe depressions.
 > Unlimited competition leads to a huge waste of labor, and to that crippling of the social consciousness of individuals which I mentioned before.
