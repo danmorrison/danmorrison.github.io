@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What do you mean, if?"
-date:   2017-08-26T19:24:56+11:00
+date:   2017-08-26T19:24:56+10:00
 ---
 
 [Story of Your Life by Ted Chiang][]:
