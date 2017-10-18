@@ -108,6 +108,6 @@ date:   2017-10-18T11:13:49+11:00
 > Taste with your mouth.
 > Smell with your nose.
 > Feel with your skin.
-> *Then* comes the thinking, afterward, and in that way knowing the truth.</mark>"
+> <em>Then</em> comes the thinking, afterward, and in that way knowing the truth.</mark>"
 
 [A Game of Thrones by George RR Martin]: https://itunes.apple.com/book/id1157102234
