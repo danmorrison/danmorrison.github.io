@@ -69,7 +69,7 @@ date:   2017-10-18T11:13:49+11:00
 > Other men were stronger, faster, younger, why was Syrio Forel the best?
 > I will tell you now."
 > He touched the tip of his little finger lightly to his eyelid.
-> "The seeing, the true seeing, that is the heart of it."
+> "The seeing, the true seeing, that is the heart of it.
 >
 > "Hear me.
 > The ships of Braavos sail as far as the winds blow, to lands strange and wonderful, and when they return their captains fetch queer animals to the Sealord's menagerie.
