@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Turing Test"
-date:   2017-09-04T11:53:43+11:00
+date:   2017-09-04T11:53:43+10:00
 ---
 
 [Homo Deus by Yuval Noah Harari][]:
