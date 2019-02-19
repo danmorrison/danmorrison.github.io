@@ -136,7 +136,7 @@ Cass arrived and soon after I collected my prescription for oxycodone and we wal
 
 I was back home:
 
-![Back home](2015-04-03.jpg)
+![Back home](2015-04-03.jpeg)
 
 **Please create a Medical ID for yourself on your iPhone.**
 I hadn't.

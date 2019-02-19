@@ -4,7 +4,7 @@ title:  "Our wedding playlist"
 date:   2016-08-22T16:41:53+10:00
 ---
 
-![Congratulations from the Beaufort](congrats-cass-and-dan.jpg)
+![Congratulations from the Beaufort](congrats-cass-and-dan.jpeg)
 
 ​The hardest part of planning our wedding was choosing music.
 I knew that I wanted [the Beaufort][] to play songs from my iPad in a random order but choosing songs that could create our intended vibe took hours.

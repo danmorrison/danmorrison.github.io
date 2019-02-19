@@ -4,7 +4,7 @@ title:  "​Recovering from trauma"
 date:   2016-04-03T13:46:50+10:00
 ---
 
-![Run Melbourne 2015](2015-07-26.jpg)
+![Run Melbourne 2015](2015-07-26.jpeg)
 
 In April 2015 [someone hit me with a car][].
 I lost consciousness, received multiple cuts and injuries, had an incisor chipped and spent a night in the trauma ward of the Royal Melbourne Hospital.

@@ -4,7 +4,7 @@ title:  "The Fireman’s Prayer"
 date:   2017-07-27T20:35:11+10:00
 ---
 
-![John Thomas Burnett](john-thomas-burnett.jpg)
+![John Thomas Burnett](john-thomas-burnett.jpeg)
 
 <p style="text-align: center">
 John Thomas Burnett<br />
