@@ -110,4 +110,4 @@ date:   2017-10-18T11:13:49+11:00
 > Feel with your skin.
 > <em>Then</em> comes the thinking, afterward, and in that way knowing the truth.</mark>"
 
-[A Game of Thrones by George RR Martin]: https://itunes.apple.com/book/id1157102234
+[A Game of Thrones by George RR Martin]: https://books.apple.com/book/id1157102234

@@ -16,4 +16,4 @@ date:   2017-09-04T11:53:43+10:00
 > It won’t matter whether computers will actually be conscious or not.
 > It will matter only what people think about it.
 
-[Homo Deus by Yuval Noah Harari]: https://itunes.apple.com/book/id1082075161
+[Homo Deus by Yuval Noah Harari]: https://books.apple.com/book/id1082075161

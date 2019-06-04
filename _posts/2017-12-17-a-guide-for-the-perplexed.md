@@ -31,4 +31,4 @@ date:   2017-12-17T10:54:23+11:00
 > - Take revenge if need be.
 > - Get used to the bear behind you.
 
-[Werner Herzog]: https://itunes.apple.com/book/id879995372
+[Werner Herzog]: https://books.apple.com/book/id879995372

@@ -10,4 +10,4 @@ date:   2019-02-11T20:51:01+11:00
 > Logic belongs in the world of programs and is subordinate to the worlds of principles and systems.
 > If you really want to make a change, you will have to change your principles, and in order to change your principles, you will first have to change the accompanying system.
 
-[Hetty van de Rijt and Frans Plooij]: https://itunes.apple.com/book/id1279691130
+[Hetty van de Rijt and Frans Plooij]: https://books.apple.com/book/id1279691130
