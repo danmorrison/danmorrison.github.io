@@ -493,7 +493,7 @@ date:   2019-10-23T12:09:38+11:00
 > <mark>He was losing patience with his other self's mindless refusal to surrender to problems.</mark>
 > 'Then how,' he said in his trying-to-communicate-with-small-children-and-lower-primates voice, 'am I supposed to turn it on?'
 >
-> <mark>'You've got a light bee, haven't you?'
+> <mark>'You've got a light bee, haven't you?'</mark>
 >
 > 'Eh?'
 >
@@ -504,7 +504,7 @@ date:   2019-10-23T12:09:38+11:00
 > 'Well, yes.
 > I've got a light bee.'
 >
-> 'Then why didn't you start up the scoop by using that?'</mark>
+> 'Then why didn't you start up the scoop by using that?'
 >
 > Ace strode passed Rimmer, opened the door into the storeroom and started loading metal sheets on to a palette.
 >
