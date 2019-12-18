@@ -13,9 +13,7 @@ I lived.
 [someone hit me with a car]: {% post_url 2015-04-04-someone-hit-me-with-a-car %}
 
 Before this happened I was depressed.
-I wasn't living my life in accordance with what I [valued][] and had been going to sleep each night speaking the words "please let me die" into my pillow.
-
-[valued]: {% post_url 2015-03-03-values %}
+I wasn't living my life in accordance with what I valued and had been going to sleep each night speaking the words "please let me die" into my pillow.
 
 Nearly dying didn't change my perspective.
 I didn't gain a sudden urgency to live.
