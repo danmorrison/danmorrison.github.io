@@ -13,6 +13,6 @@ github_username: danmorrison
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: /:categories/:title
 timezone: Australia/Melbourne
 
