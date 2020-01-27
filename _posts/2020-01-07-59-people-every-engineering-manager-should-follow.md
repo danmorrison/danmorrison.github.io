@@ -4,11 +4,11 @@ title:  "59 people every engineering manager should follow"
 date:   2020-01-07T22:58:43+11:00
 ---
 
-I love [The Manager's Path]() by Camille Fournier.
+I love [The Manager's Path][] by Camille Fournier.
 
 [The Manager's Path]: https://books.apple.com/book/id1215867591
 
-Her next book [97 Things Every Engineering Manager Should Know]() isn't available on Apple Books yet, but many of the contributors have websites worth following:
+Her next book [97 Things Every Engineering Manager Should Know][] isn't available on Apple Books yet, but many of the contributors have websites worth following:
 
 [97 Things Every Engineering Manager Should Know]: https://www.oreilly.com/library/view/97-things-every/9781492050896
 
