@@ -14,4 +14,4 @@ This let me refactor 81 actions down to these 57.
 
 [iOS 13 introduced parameters for actions]: https://developer.apple.com/videos/play/wwdc2019/213
 
-I would like to have an action that could search for the playlists in your library.
+I would like to have an action that could search for the playlists in my library.
