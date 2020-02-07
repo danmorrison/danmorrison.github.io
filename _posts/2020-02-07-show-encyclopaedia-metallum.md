@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Show Encyclopaedia Metallum"
-date:   2020-02-07T15:13:373+11:00
+date:   2020-02-07T15:13:37+11:00
 ---
 
 [This shortcut][] shows a song or album in [Encyclopaedia Metallum][]. It searches for input iTunes media or the song that is currently playing in the Music app.
