@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NetNewsWire 5.0"
+title:  "NetNewsWire 5.0 for iOS"
 date:   2020-07-15T15:00:41+10:00
 ---
 
