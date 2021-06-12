@@ -1,12 +1,13 @@
 # Site settings
-title: Dan Morrison
+title: Daniel Morrison
 email: dan@danm.it
 description: >
-  You can follow me on <a class='github' href='https://github.com/danmorrison'>GitHub</a>,
-  <a class='linkedin' href='http://linkedin.com/in/danjmorrison'>LinkedIn</a>,
-  <a class='applemusic' href='https://itunes.apple.com/profile/danmorrison'>Apple Music</a>,
-  <a class='letterboxd' href='https://letterboxd.com/danielmorrison'>Letterboxd</a> and
-  <a class='instagram' href='https://instagram.com/daniel.j.morrison'>Instagram</a>.
+  You can follow my work on <a class='linkedin' href='http://linkedin.com/in/danjmorrison'>LinkedIn</a>
+  and <a class='github' href='https://github.com/danmorrison'>GitHub</a>,
+  my playlists on <a class='applemusic' href='https://itunes.apple.com/profile/danmorrison'>Apple Music</a>,
+  my film reviews on <a class='letterboxd' href='https://letterboxd.com/danielmorrison'>Letterboxd</a>
+  and my photos on <a class='instagram' href='https://instagram.com/daniel.j.morrison'>Instagram</a>.
+  
 baseurl: ""
 url: "http://danm.it" # the base hostname & protocol for your site
 github_username: danmorrison
@@ -15,4 +16,5 @@ github_username: danmorrison
 markdown: kramdown
 permalink: /:categories/:title
 timezone: Australia/Melbourne
+
 
